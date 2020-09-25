@@ -1,0 +1,16 @@
+Visualization items
+*Magnetometer
+- MX/MY, MX/t graphs
+- Magnetometer min/max
+- M normalize
+- M magnitude/direction
+*Accelerometer
+- Ax/t
+- A calibrate
+*Gyro
+- Gx/t
+- G calibrate
+
+Read data from file
+- Real Time
+- Complete
